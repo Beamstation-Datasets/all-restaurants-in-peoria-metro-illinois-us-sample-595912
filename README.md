@@ -1,6 +1,6 @@
 # All Restaurants in Peoria (Metro), Illinois, US
 
-> Free BeamStation sample export with 56 rows and masked direct-contact fields.
+> Free BeamStation sample export with 62 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `595912` |
 | Location | Peoria, IL |
 | Category | Restaurants |
-| Full dataset size | 560 records |
-| Free sample size | 56 records (10.0%) |
-| Last export | 2026-04-21T21:00:43.025690+00:00 |
+| Full dataset size | 629 records |
+| Free sample size | 62 records (9.86%) |
+| Last export | 2026-04-28T22:52:50.127118+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-peoria-metro-illinois-us-sample-595912/releases/download/sample-latest/beamstation_595912_restaurants-us-peoriail_SAMPLE_DIST.csv) |
 
 ## What is in this sample
